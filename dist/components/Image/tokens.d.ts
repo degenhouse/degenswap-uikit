@@ -5,8 +5,8 @@ declare const tokens: {
     cake: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -14,8 +14,8 @@ declare const tokens: {
     txl: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -23,8 +23,8 @@ declare const tokens: {
     cos: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -32,8 +32,8 @@ declare const tokens: {
     bunny: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -41,8 +41,8 @@ declare const tokens: {
     alice: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -50,8 +50,8 @@ declare const tokens: {
     for: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -59,8 +59,8 @@ declare const tokens: {
     bux: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -68,8 +68,8 @@ declare const tokens: {
     nuls: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -77,8 +77,8 @@ declare const tokens: {
     belt: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -86,8 +86,8 @@ declare const tokens: {
     ramp: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -95,8 +95,8 @@ declare const tokens: {
     bfi: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -104,8 +104,8 @@ declare const tokens: {
     dexe: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -113,8 +113,8 @@ declare const tokens: {
     bel: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -122,8 +122,8 @@ declare const tokens: {
     tpt: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -131,8 +131,8 @@ declare const tokens: {
     watch: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -140,8 +140,8 @@ declare const tokens: {
     xmark: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -149,8 +149,8 @@ declare const tokens: {
     bmxx: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -158,8 +158,8 @@ declare const tokens: {
     iotx: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -167,8 +167,8 @@ declare const tokens: {
     bor: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -176,8 +176,8 @@ declare const tokens: {
     bopen: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -185,8 +185,8 @@ declare const tokens: {
     dodo: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -194,8 +194,8 @@ declare const tokens: {
     swingby: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -203,8 +203,8 @@ declare const tokens: {
     bry: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -212,8 +212,8 @@ declare const tokens: {
     zee: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -221,8 +221,8 @@ declare const tokens: {
     swgb: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -230,8 +230,8 @@ declare const tokens: {
     swg: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -239,8 +239,8 @@ declare const tokens: {
     sfp: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -248,8 +248,8 @@ declare const tokens: {
     lina: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -257,8 +257,8 @@ declare const tokens: {
     lit: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -266,8 +266,8 @@ declare const tokens: {
     hget: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -275,8 +275,8 @@ declare const tokens: {
     bdo: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -284,8 +284,8 @@ declare const tokens: {
     egld: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -293,8 +293,8 @@ declare const tokens: {
     ust: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -302,8 +302,8 @@ declare const tokens: {
     wsote: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -311,8 +311,8 @@ declare const tokens: {
     front: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -320,8 +320,8 @@ declare const tokens: {
     helmet: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -329,8 +329,8 @@ declare const tokens: {
     btcst: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -338,8 +338,8 @@ declare const tokens: {
     bscx: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -347,8 +347,8 @@ declare const tokens: {
     ten: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -356,8 +356,8 @@ declare const tokens: {
     balbt: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -365,8 +365,8 @@ declare const tokens: {
     asr: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -374,8 +374,8 @@ declare const tokens: {
     atm: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -383,8 +383,8 @@ declare const tokens: {
     og: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -392,8 +392,8 @@ declare const tokens: {
     reef: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -401,8 +401,8 @@ declare const tokens: {
     ditto: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -410,8 +410,8 @@ declare const tokens: {
     juv: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -419,8 +419,8 @@ declare const tokens: {
     psg: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -428,8 +428,8 @@ declare const tokens: {
     vai: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -437,8 +437,8 @@ declare const tokens: {
     wbnb: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -446,8 +446,8 @@ declare const tokens: {
     blink: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -455,8 +455,8 @@ declare const tokens: {
     unfi: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -464,8 +464,8 @@ declare const tokens: {
     twt: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -473,8 +473,8 @@ declare const tokens: {
     hard: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -482,8 +482,8 @@ declare const tokens: {
     broobee: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -491,8 +491,8 @@ declare const tokens: {
     stax: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -500,8 +500,8 @@ declare const tokens: {
     nar: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -509,8 +509,8 @@ declare const tokens: {
     nya: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -518,8 +518,8 @@ declare const tokens: {
     ctk: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -527,8 +527,8 @@ declare const tokens: {
     inj: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -536,8 +536,8 @@ declare const tokens: {
     sxp: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -545,8 +545,8 @@ declare const tokens: {
     alpha: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -554,8 +554,8 @@ declare const tokens: {
     xvs: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -563,8 +563,8 @@ declare const tokens: {
     sushi: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -572,8 +572,8 @@ declare const tokens: {
     comp: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -581,8 +581,8 @@ declare const tokens: {
     syrup: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -590,8 +590,8 @@ declare const tokens: {
     bifi: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -599,8 +599,8 @@ declare const tokens: {
     dusk: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -608,8 +608,8 @@ declare const tokens: {
     busd: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -617,8 +617,8 @@ declare const tokens: {
     eth: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -626,8 +626,8 @@ declare const tokens: {
     beth: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -635,8 +635,8 @@ declare const tokens: {
     mamzn: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -644,8 +644,8 @@ declare const tokens: {
     mgoogl: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -653,8 +653,8 @@ declare const tokens: {
     mnflx: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -662,8 +662,8 @@ declare const tokens: {
     mtsla: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -671,8 +671,8 @@ declare const tokens: {
     ltc: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -680,8 +680,8 @@ declare const tokens: {
     usdc: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -689,8 +689,8 @@ declare const tokens: {
     dai: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -698,8 +698,8 @@ declare const tokens: {
     ada: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -707,8 +707,8 @@ declare const tokens: {
     band: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -716,8 +716,8 @@ declare const tokens: {
     dot: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -725,8 +725,8 @@ declare const tokens: {
     eos: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -734,8 +734,8 @@ declare const tokens: {
     link: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -743,8 +743,8 @@ declare const tokens: {
     usdt: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -752,8 +752,8 @@ declare const tokens: {
     btcb: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -761,8 +761,8 @@ declare const tokens: {
     xrp: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -770,8 +770,8 @@ declare const tokens: {
     atom: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -779,8 +779,8 @@ declare const tokens: {
     yfii: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -788,8 +788,8 @@ declare const tokens: {
     xtz: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -797,8 +797,8 @@ declare const tokens: {
     bch: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -806,8 +806,8 @@ declare const tokens: {
     yfi: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -815,8 +815,8 @@ declare const tokens: {
     uni: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -824,8 +824,8 @@ declare const tokens: {
     fil: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -833,8 +833,8 @@ declare const tokens: {
     bake: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -842,8 +842,8 @@ declare const tokens: {
     burger: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -851,8 +851,8 @@ declare const tokens: {
     bdigg: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -860,8 +860,8 @@ declare const tokens: {
     bbadger: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -869,8 +869,8 @@ declare const tokens: {
     trade: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -878,8 +878,8 @@ declare const tokens: {
     pnt: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -887,8 +887,8 @@ declare const tokens: {
     mir: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -896,8 +896,8 @@ declare const tokens: {
     pbtc: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -905,8 +905,8 @@ declare const tokens: {
     lto: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -914,8 +914,8 @@ declare const tokens: {
     pcws: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -923,8 +923,8 @@ declare const tokens: {
     zil: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -932,8 +932,8 @@ declare const tokens: {
     lien: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -941,8 +941,8 @@ declare const tokens: {
     swth: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -950,8 +950,8 @@ declare const tokens: {
     dft: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -959,8 +959,8 @@ declare const tokens: {
     gum: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -968,8 +968,8 @@ declare const tokens: {
     dego: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -977,8 +977,8 @@ declare const tokens: {
     nrv: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -986,8 +986,8 @@ declare const tokens: {
     easy: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -995,8 +995,8 @@ declare const tokens: {
     oddz: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1004,8 +1004,8 @@ declare const tokens: {
     hoo: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1013,8 +1013,8 @@ declare const tokens: {
     apys: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1022,8 +1022,8 @@ declare const tokens: {
     bondly: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1031,8 +1031,8 @@ declare const tokens: {
     tko: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1040,8 +1040,8 @@ declare const tokens: {
     itam: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1049,8 +1049,8 @@ declare const tokens: {
     arpa: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1058,8 +1058,8 @@ declare const tokens: {
     eps: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1067,8 +1067,8 @@ declare const tokens: {
     jgn: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1076,8 +1076,8 @@ declare const tokens: {
     tlm: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1085,8 +1085,8 @@ declare const tokens: {
     perl: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1094,8 +1094,8 @@ declare const tokens: {
     alpa: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1103,8 +1103,8 @@ declare const tokens: {
     hzn: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1112,8 +1112,8 @@ declare const tokens: {
     suter: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1121,8 +1121,8 @@ declare const tokens: {
     cgg: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1130,8 +1130,8 @@ declare const tokens: {
     mix: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1139,8 +1139,8 @@ declare const tokens: {
     hakka: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1148,8 +1148,8 @@ declare const tokens: {
     xed: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1157,8 +1157,8 @@ declare const tokens: {
     τbtc: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1166,8 +1166,8 @@ declare const tokens: {
     alpaca: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1175,8 +1175,8 @@ declare const tokens: {
     dfd: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1184,8 +1184,8 @@ declare const tokens: {
     lmt: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1193,8 +1193,8 @@ declare const tokens: {
     btt: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1202,8 +1202,8 @@ declare const tokens: {
     trx: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1211,8 +1211,8 @@ declare const tokens: {
     win: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1220,8 +1220,8 @@ declare const tokens: {
     mcoin: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1229,8 +1229,8 @@ declare const tokens: {
     math: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1238,8 +1238,8 @@ declare const tokens: {
     kun: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1247,8 +1247,8 @@ declare const tokens: {
     qsd: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1256,8 +1256,8 @@ declare const tokens: {
     hyfi: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1265,8 +1265,8 @@ declare const tokens: {
     oin: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1274,8 +1274,8 @@ declare const tokens: {
     doge: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1283,8 +1283,8 @@ declare const tokens: {
     fine: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1292,8 +1292,8 @@ declare const tokens: {
     one: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1301,8 +1301,8 @@ declare const tokens: {
     pmon: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1310,8 +1310,8 @@ declare const tokens: {
     hotcross: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1319,8 +1319,8 @@ declare const tokens: {
     τdoge: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1328,8 +1328,8 @@ declare const tokens: {
     btr: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1337,8 +1337,8 @@ declare const tokens: {
     ubxt: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1346,8 +1346,8 @@ declare const tokens: {
     wmass: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1355,8 +1355,8 @@ declare const tokens: {
     rfox: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1364,8 +1364,8 @@ declare const tokens: {
     xend: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1373,8 +1373,8 @@ declare const tokens: {
     cyc: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1382,8 +1382,8 @@ declare const tokens: {
     chr: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1391,8 +1391,8 @@ declare const tokens: {
     kalm: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1400,8 +1400,8 @@ declare const tokens: {
     deri: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1409,8 +1409,8 @@ declare const tokens: {
     well: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1418,8 +1418,8 @@ declare const tokens: {
     popen: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1427,8 +1427,8 @@ declare const tokens: {
     ez: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1436,8 +1436,8 @@ declare const tokens: {
     vrt: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1445,8 +1445,8 @@ declare const tokens: {
     tusd: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1454,8 +1454,8 @@ declare const tokens: {
     mtrg: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1463,8 +1463,8 @@ declare const tokens: {
     ktn: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1472,8 +1472,8 @@ declare const tokens: {
     qkc: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1481,8 +1481,8 @@ declare const tokens: {
     bcfx: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1490,8 +1490,8 @@ declare const tokens: {
     mx: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1499,8 +1499,8 @@ declare const tokens: {
     ata: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1508,8 +1508,8 @@ declare const tokens: {
     mbox: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1517,8 +1517,8 @@ declare const tokens: {
     boring: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1526,8 +1526,8 @@ declare const tokens: {
     marsh: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
@@ -1535,8 +1535,8 @@ declare const tokens: {
     ampl: {
         symbol: string;
         address: {
-            56: string;
-            97: string;
+            250: string;
+            4002: string;
         };
         decimals: number;
         projectLink: string;
