@@ -4851,11 +4851,11 @@ var Icon$h = function (props) {
 
 var pulse = styled.keyframes(templateObject_1$s || (templateObject_1$s = __makeTemplateObject(["\n  0% { transform: rotate(0deg); }\n  20% { transform: rotate(0deg); }\n  40% { transform: rotate(0deg); }\n  50% { transform: scale(1); }\n  55% { transform: scale(1.1); }\n  60% { transform: scale(1.2); }\n  65% { transform: scale(1.3); }\n  70% { transform: scale(1.4); }\n  75% { transform: scale(1.5); }\n  80% { transform: scale(1.2); }\n  90% { transform: scale(1.1); }\n  100% { transform: scale(1); }\n"], ["\n  0% { transform: rotate(0deg); }\n  20% { transform: rotate(0deg); }\n  40% { transform: rotate(0deg); }\n  50% { transform: scale(1); }\n  55% { transform: scale(1.1); }\n  60% { transform: scale(1.2); }\n  65% { transform: scale(1.3); }\n  70% { transform: scale(1.4); }\n  75% { transform: scale(1.5); }\n  80% { transform: scale(1.2); }\n  90% { transform: scale(1.1); }\n  100% { transform: scale(1); }\n"])));
 var Container$3 = styled__default['default'].div(templateObject_2$g || (templateObject_2$g = __makeTemplateObject(["\n  position: relative;\n"], ["\n  position: relative;\n"])));
-var FloatingPanIcon = styled__default['default'](Icon$h)(templateObject_3$8 || (templateObject_3$8 = __makeTemplateObject(["\nposition: absolute;\ntop: 0;\nleft: 0;\nanimation: ", " 5s linear infinite;\ntransform: translate3d(0, 0, 0);\n"], ["\nposition: absolute;\ntop: 0;\nleft: 0;\nanimation: ", " 5s linear infinite;\ntransform: translate3d(0, 0, 0);\n"])), pulse);
+var FloatingPanIcon = styled__default['default'](Icon$h)(templateObject_3$8 || (templateObject_3$8 = __makeTemplateObject(["\n// position: absolute;\ntop: 0;\nleft: 0;\nanimation: ", " 5s linear infinite;\ntransform: translate3d(0, 0, 0);\n"], ["\n// position: absolute;\ntop: 0;\nleft: 0;\nanimation: ", " 5s linear infinite;\ntransform: translate3d(0, 0, 0);\n"])), pulse);
 var Spinner = function (_a) {
     var _b = _a.size, size = _b === void 0 ? 128 : _b;
     return (React__default['default'].createElement(Container$3, null,
-        React__default['default'].createElement(FloatingPanIcon, { width: size + "px" })));
+        React__default['default'].createElement(FloatingPanIcon, { width: size * 0.5 + "px" })));
 };
 var templateObject_1$s, templateObject_2$g, templateObject_3$8;
 

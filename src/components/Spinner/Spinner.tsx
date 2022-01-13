@@ -24,7 +24,7 @@ const Container = styled.div`
 `;
 
 const FloatingPanIcon = styled(PanIcon)`
-position: absolute;
+// position: absolute;
 top: 0;
 left: 0;
 animation: ${pulse} 5s linear infinite;
@@ -34,7 +34,7 @@ transform: translate3d(0, 0, 0);
 const Spinner: React.FC<SpinnerProps> = ({ size = 128 }) => {
   return (
     <Container>
-      <FloatingPanIcon width={`${size}px`} />
+      <FloatingPanIcon width={`${size * 0.5}px`} />
     </Container>
   );
 };
