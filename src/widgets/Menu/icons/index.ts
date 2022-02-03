@@ -17,3 +17,4 @@ export { default as TelegramIcon } from "./Telegram";
 export { default as TicketIcon } from "./Ticket";
 export { default as TradeIcon } from "./Trade";
 export { default as TwitterIcon } from "./Twitter";
+// cheynespc says: this is where you edit the logos on menu :)
