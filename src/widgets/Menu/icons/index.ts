@@ -14,6 +14,8 @@ export { default as PredictionsIcon } from "./Predictions";
 export { default as SunIcon } from "./Sun";
 export { default as TeamBattleIcon } from "./TeamBattle";
 export { default as TelegramIcon } from "./Telegram";
+export { default as BookIcon } from "./Book";
 export { default as TicketIcon } from "./Ticket";
 export { default as TradeIcon } from "./Trade";
 export { default as TwitterIcon } from "./Twitter";
+// cheynespc says: this is where you edit the logos on menu :)
