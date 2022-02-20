@@ -150,9 +150,19 @@ export const socials = [
     icon: "TwitterIcon",
     href: "https://twitter.com/HouseDegen",
   },
+  {
+    label: "Discord",
+    icon: "DiscordIcon",
+    href: "https://discord.com/invite/degenhaus",
+  },
+  {
+    label: "YouTube",
+    icon: "YoutubeIcon",
+    href: "https://www.youtube.com/channel/UCkIwOtsZKIqh7Zxs56291Mw",
+  },
 ];
 
-export const MENU_HEIGHT = 64;
-export const MENU_ENTRY_HEIGHT = 48;
-export const SIDEBAR_WIDTH_FULL = 240;
+export const MENU_HEIGHT = 72;
+export const MENU_ENTRY_HEIGHT = 52;
+export const SIDEBAR_WIDTH_FULL = 260;
 export const SIDEBAR_WIDTH_REDUCED = 56;
