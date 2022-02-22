@@ -141,6 +141,11 @@ export const links = [
 
 export const socials = [
   {
+    label: "Discord",
+    icon: "DiscordIcon",
+    href: "https://discord.com/invite/degenhaus",
+  },
+  {
     label: "Telegram",
     icon: "TelegramIcon",
     href: "https://t.me/DegenHouse"
@@ -151,9 +156,9 @@ export const socials = [
     href: "https://twitter.com/HouseDegen",
   },
   {
-    label: "Discord",
-    icon: "DiscordIcon",
-    href: "https://discord.com/invite/degenhaus",
+    label: "Github",
+    icon: "GithubIcon",
+    href: "https://github.com/degen-haus",
   },
   {
     label: "YouTube",

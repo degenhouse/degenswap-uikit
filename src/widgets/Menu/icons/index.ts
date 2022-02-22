@@ -14,6 +14,7 @@ export { default as PoolIcon } from "./Pool";
 export { default as PredictionsIcon } from "./Predictions";
 export { default as SunIcon } from "./Sun";
 export { default as EarnIcon } from "./Earn";
+export { default as GithubIcon } from "./Github";
 export { default as TeamBattleIcon } from "./TeamBattle";
 export { default as TelegramIcon } from "./Telegram";
 export { default as BookIcon } from "./Book";
