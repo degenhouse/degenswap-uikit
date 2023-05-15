@@ -5,7 +5,7 @@ export declare const scales: {
     readonly MD: "md";
     readonly LG: "lg";
 };
-export declare type Scales = typeof scales[keyof typeof scales];
+export type Scales = typeof scales[keyof typeof scales];
 export interface InputProps extends SpaceProps {
     scale?: Scales;
     isSuccess?: boolean;

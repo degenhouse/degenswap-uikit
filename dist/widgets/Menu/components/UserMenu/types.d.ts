@@ -5,7 +5,7 @@ export declare const variants: {
     readonly DANGER: "danger";
     readonly PENDING: "pending";
 };
-export declare type Variant = typeof variants[keyof typeof variants];
+export type Variant = typeof variants[keyof typeof variants];
 export interface UserMenuProps extends FlexProps {
     account?: string;
     text?: string;

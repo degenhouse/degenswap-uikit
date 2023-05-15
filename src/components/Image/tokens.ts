@@ -5,7 +5,7 @@ const tokens = {
   cake: {
     symbol: "CAKE",
     address: {
-      250: "0xD948EfcC99be419cA9bDACE89b2beC31EDF13adB",
+      250: "0x4973f857b3da6bb9760a3d8809f9a203a512d275",
       4002: "0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe",
     },
     decimals: 18,

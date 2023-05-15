@@ -1,7 +1,7 @@
-declare type State = {
+type State = {
     [key: string]: boolean;
 };
-declare type BreakpointChecks = {
+type BreakpointChecks = {
     isMobile: boolean;
     isTablet: boolean;
     isDesktop: boolean;

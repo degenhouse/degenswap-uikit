@@ -1,5 +1,5 @@
 import { InputHTMLAttributes } from "react";
-export declare type ToggleTheme = {
+export type ToggleTheme = {
     handleBackground: string;
 };
 export declare const scales: {
@@ -7,7 +7,7 @@ export declare const scales: {
     readonly MD: "md";
     readonly LG: "lg";
 };
-export declare type Scales = typeof scales[keyof typeof scales];
+export type Scales = typeof scales[keyof typeof scales];
 export interface ToggleProps extends InputHTMLAttributes<HTMLInputElement> {
     scale?: Scales;
     checked?: boolean;
@@ -27,4 +27,4 @@ export declare const scaleKeys: {
     readonly toggleHeight: "toggleHeight";
     readonly toggleWidth: "toggleWidth";
 };
-export declare type ScaleKeys = typeof scaleKeys[keyof typeof scaleKeys];
+export type ScaleKeys = typeof scaleKeys[keyof typeof scaleKeys];

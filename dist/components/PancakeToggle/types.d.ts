@@ -1,5 +1,5 @@
 import { InputHTMLAttributes } from "react";
-export declare type PancakeToggleTheme = {
+export type PancakeToggleTheme = {
     handleBackground: string;
     handleShadow: string;
 };
@@ -8,7 +8,7 @@ export declare const scales: {
     readonly MD: "md";
     readonly LG: "lg";
 };
-export declare type Scales = typeof scales[keyof typeof scales];
+export type Scales = typeof scales[keyof typeof scales];
 export interface PancakeToggleProps extends InputHTMLAttributes<HTMLInputElement> {
     scale?: Scales;
     checked?: boolean;
@@ -38,4 +38,4 @@ export declare const scaleKeys: {
     readonly butterSmearTwoTop: "butterSmearTwoTop";
     readonly butterSmearTwoRight: "butterSmearTwoRight";
 };
-export declare type ScaleKeys = typeof scaleKeys[keyof typeof scaleKeys];
+export type ScaleKeys = typeof scaleKeys[keyof typeof scaleKeys];
