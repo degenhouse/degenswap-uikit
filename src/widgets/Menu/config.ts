@@ -143,17 +143,17 @@ export const socials = [
   {
     label: "Discord",
     icon: "DiscordIcon",
-    href: "https://discord.com/invite/A5xJBb8CV6",
+    href: "https://discord.com/invite/degenhaus",
   },
   {
     label: "Telegram",
     icon: "TelegramIcon",
-    href: "https://t.me/NextGEN_Finance"
+    href: "https://t.me/DegenHouse"
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/Next_GenFinance",
+    href: "https://twitter.com/HouseDegen",
   },
   {
     label: "Github",

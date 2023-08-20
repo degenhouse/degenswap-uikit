@@ -16,3 +16,5 @@ storybook-static
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+dist/index.cjs.js
+dist/index.esm.js
